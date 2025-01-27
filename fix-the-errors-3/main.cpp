@@ -33,9 +33,14 @@ int main()
 		<< " and " << secondNumber << endl;
 
 	// Now we will swap the values.
-	firstNumber = secondNumber; secondNumber = firstNumber;
+    firstNumber = firstNumber + secondNumber; // Add the numbers
+    secondNumber = firstNumber - secondNumber; // Subtract the original second number from the sum to get the orginal first number
+    firstNumber = firstNumber - secondNumber; // Subtract the new second numberfrom the sum to get original second number
 
-	// Output the values.
-	cout << "After swapping, the values of the two numbers are "
-		<< firstNumber << " and " << secondNumber << endl; return 0;
+    // Output the values.
+    cout << "After swapping, the values of the two numbers are " << firstNumber << " and " << secondNumber << endl;
+
+
+
+	
 }
