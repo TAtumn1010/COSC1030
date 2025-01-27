@@ -16,7 +16,7 @@ int main()
 
 	float number;
 	int divider;
-	divider = 0;
+	divider = 2;
 
 	cout << "Hi there" << endl;
 	cout << "Please input a number and then hit return" << endl;
