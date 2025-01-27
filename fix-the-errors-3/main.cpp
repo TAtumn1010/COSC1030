@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Tatumn Chavez
+// 01/26/25
 // Fix the Errors #3 Programming Project
 // COSC 1030
 //
