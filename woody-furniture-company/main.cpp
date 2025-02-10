@@ -38,7 +38,7 @@ total = (americanColonial * AMERICAN_COLONIAL_PRICE)+
         (modern *  MODERN_PRICE)+
         (frenchClassical * FRENCH_CLASSICAL_PRICE);
 
-// Dispaly total revenue from ticket sales.
+// Dispaly total revenue from chair sales.
 cout << "The total revenue from chair sales is $"
     << setprecision(2)<< fixed << total << endl;
 
