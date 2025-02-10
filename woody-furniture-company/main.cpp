@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Tatumn Chavez
+// Date 02/9/25
 // Woody Furniture Company Programming Project
 // COSC 1030
 //
