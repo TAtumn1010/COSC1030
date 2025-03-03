@@ -3,15 +3,6 @@
 // Date 3/3/25
 // Pennies for Pay Programming Project
 // COSC 1030
-//
-
-
-//
-// Name
-// Date
-// Pennies for Pay Programming Project
-// COSC 1030
-//
 
 #include <iostream>
 #include <iomanip>
