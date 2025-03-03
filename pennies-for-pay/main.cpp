@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Name Tatumn Chavez
+// Date 3/3/25
 // Pennies for Pay Programming Project
 // COSC 1030
 //
